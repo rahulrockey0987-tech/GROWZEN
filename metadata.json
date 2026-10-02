@@ -1,0 +1,6 @@
+{
+  "name": "HomeHelp Private Limited - Platform Suite",
+  "description": "Integrated enterprise home services ecosystem: Customer App, Partner App, Admin Dashboard, Backend Architecture & Corporate Website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
